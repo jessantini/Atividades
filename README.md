@@ -1,3 +1,3 @@
 # Atividades
 
-destinado a entrega de atividades.
+Destinado a entrega de atividades.
