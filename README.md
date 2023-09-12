@@ -2,5 +2,5 @@
 
 Destinado a entrega de atividades.
 
-Universidade: PUC-PR.
-Discente: Jéssica Santini.
+<p>**Universidade:** PUC-PR.</p>
+<p>**Discente:** Jéssica Santini.</p>
